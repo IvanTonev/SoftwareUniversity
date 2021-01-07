@@ -5,8 +5,9 @@
 <p><a href="https://softuni.bg/certificates/details/94622/6130a8ad">02. C# Programming Fundamentals</a></p> 
 
 <h3>JavaScript</h3>
-<p>03. JS Advanced</p>
-<p>04. JS Applications</p>
+<p>01. JS Fundamentas</p>
+<p>02. JS Advanced</p>
+<p>03. JS Applications</p>
 
 <h3>FrondEnd</h3>
-<p>05. HTML & CSS</p>
+<p>01. HTML & CSS</p>
