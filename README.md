@@ -1,12 +1,3 @@
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-th, td {
-  padding: 10px;
-}
-</style>
 <h1 style="text-align:center; font-size:50px"> Software University </h1>
 
 <table >
