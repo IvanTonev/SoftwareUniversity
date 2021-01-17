@@ -1,0 +1,5 @@
+function solve(input) {
+    let sortedInput = input.sort((a, b) => a - b);
+    let secondPartInput = sortedInput.slice(Math.floor(input.length / 2), input.length);
+    return secondPartInput;
+}
