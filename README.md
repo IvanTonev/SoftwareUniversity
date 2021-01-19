@@ -12,7 +12,7 @@
     <td>01. HTML & CSS</td>
   </tr>
   <tr style="font-size:25px">
-    <td><a href="https://softuni.bg/certificates/details/94622/6130a8ad">02. C# Programming Fundamentals</a></td>
+    <td><a href="https://softuni.bg/certificates/details/96514/c251cc79">02. C# Programming Fundamentals</a></td>
     <td>02. JS Advanced</td>
     <td></td>
   </tr>
