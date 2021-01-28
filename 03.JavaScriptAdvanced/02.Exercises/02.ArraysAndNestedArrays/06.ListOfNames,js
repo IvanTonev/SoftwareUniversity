@@ -1,0 +1,8 @@
+function listOfNames(namesArray) {
+    namesArray.sort(function (a, b) {
+        return a.localeCompare(b);
+    });
+    for (let i = 0; i < namesArray.length; i++) {
+        console.log(`${i + 1}.${namesArray[i]}`);
+    }
+}
