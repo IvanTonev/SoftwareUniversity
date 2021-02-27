@@ -7,7 +7,10 @@
     <th>FrondEnd</th>
   </tr>
   <tr>
-    <td><a href="https://softuni.bg/certificates/details/85280/a6bd28fc">01. C# Programming Basics</a></td>
+    <td>
+      <i><a href="https://softuni.bg/certificates/details/85280/a6bd28fc">01. C# Programming Basics</a></i>
+      <strong><a href="https://github.com/IvanTonev/SoftwareUniversity/tree/main/01.C%23ProgrammingBasics">GitHub</a></strong>
+    </td>
     <td>01. JS Fundamentals</td>
     <td>01. HTML & CSS</td>
   </tr>
